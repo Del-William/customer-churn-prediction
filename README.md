@@ -95,26 +95,40 @@ jupyter notebook
 
 ## 📊 Exploratory Data Analysis Visualizations
 
-### 1. Tenure Distribution
-![Tenure Distribution](images/Customer_Churn_Tenure_Distribution.png)
+### Tenure Distribution
+![Tenure Distribution](Images/Customer_Churn_Tenure_Distribution)
 
-### 2. Monthly Charges Distribution
-![Monthly Charges Distribution](images/Customer_Churn_MonthlyCharges_Distribution.png)
+---
 
-### 3. Total Charges Distribution
-![Total Charges Distribution](images/Customer_Churn_TotalCharges_Distribution.png)
+### Monthly Charges Histogram
+![Monthly Charges Histogram](Images/Customer_Churn_ML_monthlycharges_histogram)
 
-### 4. Tenure Boxplot
-![Tenure Boxplot](images/Customer_Churn_tenure_boxplot.png)
+---
 
-### 5. Monthly Charges Boxplot
-![Monthly Charges Boxplot](images/Customer_Churn_MonthlyCharges_boxplot.png)
+### Monthly Charges Boxplot
+![Monthly Charges Boxplot](Images/Customer_Churn_MonthlyCharges_boxplot)
 
-### 6. Total Charges Boxplot
-![Total Charges Boxplot](images/Customer_Churn_TotalCharges_boxplot.png)
+---
 
-### 7. Correlation Heatmap
-![Correlation Heatmap](images/Customer_Churn_Correlation_Heatmap.png)
+### Total Charges Distribution
+![Total Charges Distribution](Images/Customer_Churn_TotalCharges_Distribution)
+
+---
+
+### Total Charges Boxplot
+![Total Charges Boxplot](Images/Customer_Churn_TotalCharges_boxplot)
+
+---
+
+### Tenure Boxplot
+![Tenure Boxplot](Images/Customer_Churn_Tenure_boxplot)
+
+---
+
+### Correlation Heatmap
+![Correlation Heatmap](Images/Customer_Churn_Correlation_Heatmap)
+
+
 
 ---
 
