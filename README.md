@@ -91,7 +91,30 @@ git clone https://github.com/Del-William/customer-churn-prediction.git
 pip install -r requirements.txt  
 
 3. Run the notebook  
-jupyter notebook  
+jupyter notebook
+
+## 📊 Exploratory Data Analysis Visualizations
+
+### 1. Tenure Distribution
+![Tenure Distribution](images/Customer_Churn_Tenure_Distribution.png)
+
+### 2. Monthly Charges Distribution
+![Monthly Charges Distribution](images/Customer_Churn_MonthlyCharges_Distribution.png)
+
+### 3. Total Charges Distribution
+![Total Charges Distribution](images/Customer_Churn_TotalCharges_Distribution.png)
+
+### 4. Tenure Boxplot
+![Tenure Boxplot](images/Customer_Churn_tenure_boxplot.png)
+
+### 5. Monthly Charges Boxplot
+![Monthly Charges Boxplot](images/Customer_Churn_MonthlyCharges_boxplot.png)
+
+### 6. Total Charges Boxplot
+![Total Charges Boxplot](images/Customer_Churn_TotalCharges_boxplot.png)
+
+### 7. Correlation Heatmap
+![Correlation Heatmap](images/Customer_Churn_Correlation_Heatmap.png)
 
 ---
 
